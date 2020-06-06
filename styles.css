@@ -219,6 +219,10 @@ figure{
     font-size: 28px;
 }
 
+figure a:hover img{
+    opacity: 0.5;
+    background-color:skyblue;
+}
 
 figure img{
     width: 320px;

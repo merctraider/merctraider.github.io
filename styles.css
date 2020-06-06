@@ -178,3 +178,51 @@ footer{
     font-size: 2em;
 }
 
+.feature-img{
+
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+}
+
+
+
+.project-header{
+    text-align: center;
+    font-size: 48px;
+}
+
+.info-block{
+    float: left;
+    width: 49.999999%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.info-block a{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+.info-block div{
+    padding: 5px;
+}
+
+figure{
+    display: inline-block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 10px;
+    margin-inline-end: 10px;
+    text-align: center;
+    font-size: 28px;
+}
+
+
+figure img{
+    width: 320px;
+    height:180px;
+    border-radius: 10px;
+
+}
